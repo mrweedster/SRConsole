@@ -1,8 +1,12 @@
 ## Shadowrun.Matrix.Console
 This is an AI port of the Matrix game of Shadowrun on Genesis / Mega Drive.
+
 It is a pure terminal/console game without graphics, animations or sound.
+
 Multiplatform support if the required dotnet is installed.
-Tested on Windows, Mac and Linux
+
+Tested on Windows, Mac and Linux. 
+
 It has built-in controller support (Tested with PS5 and Xbox360)
 
 ## Requires
